@@ -1,4 +1,4 @@
-# ✨ viktoria-castellano-datocms ✨
+# ✨ jmdialer-datocms ✨
 
 <img src="https://themes.stackbit.com/images/podcaster-demo-1024x768.png" width="600">
 
